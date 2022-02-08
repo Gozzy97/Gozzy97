@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gozzy97
+- 👋 Hi, I’m Agozie.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Backend development with Django
 - 💞️ I’m looking to collaborate on building Api's 
