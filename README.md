@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Agozie.
-- 👀 I’m interested in software developmet and an Ai enthusiast.
-- 🌱 I’m currently learning Backend development with Django
-- 💞️ I’m looking to collaborate on building Api's 
+- 👀 And i am a data scientist.
 - 📫 How to reach me on my twitter @ENnagozie and via email on nnagozieemmanuel@gmail.com
 
 <!---
